@@ -1,2 +1,3 @@
 # hello-world
-github guide repository
+Hi
+Just made a github and was finishing up the guide.
